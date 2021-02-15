@@ -1,0 +1,37 @@
+[
+    {
+        "id": "6AAC584E-D395-4ADB-9530-FCC2F5E618BB",
+        "asset_code": "product_biscuit",
+        "name": "Biscuit",
+        "stock": 30,
+        "price": 6000
+    },
+    {
+        "id": "CB436E0D-94DB-4D53-81A2-E78C6B0D9C74",
+        "asset_code": "product_chips",
+        "name": "Chips",
+        "stock": 20,
+        "price": 8000
+    },
+    {
+        "id": "22D7BE30-E303-49A4-980F-44AFD0A0EC49",
+        "name": "Oreo",
+        "asset_code": "product_oreo",
+        "stock": 30,
+        "price": 10000
+    },
+    {
+        "id": "A2473AAA-1AE5-4BC1-B90B-7AFB8FED7B68",
+        "asset_code": "product_tango",
+        "name": "Tango",
+        "stock": 30,
+        "price": 12000
+    },
+    {
+        "id": "1250A1E4-2D55-414F-B70D-CA62408BB958",
+        "asset_code": "product_chocolate",
+        "name": "Chocolate",
+        "stock": 20,
+        "price": 15000
+    },
+]
